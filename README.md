@@ -36,8 +36,8 @@ Certifique-se de ter instalado:
 
 1.  **Clonar o Repositório:**
     ```bash
-    git clone [LINK DO REPOSITÓRIO AQUI]
-    cd [NOME DA PASTA DO PROJETO]
+    git clone https://github.com/jsumiree/Chatbot.git
+    cd Chatbot
     ```
 
 2.  **Criar e Ativar o Ambiente Virtual (\texttt{venv}):**
