@@ -1,0 +1,14 @@
+# Ambiente virtual inteiro
+venv/
+
+# Arquivos de cache de módulos Python
+__pycache__/
+
+# Arquivo que contém as chaves de API reais
+.env
+
+# Pastas e arquivos de configuração gerados por Chainlit
+.chainlit/
+
+# Arquivos de log (boa prática)
+*.log
